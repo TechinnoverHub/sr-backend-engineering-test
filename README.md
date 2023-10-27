@@ -60,7 +60,7 @@ Unit tests are a must, submissions without tests will be ignored.
 2. Code should be hosted on a git repository, Github preferably.
 3. The API should be hosted on a live server (e.g. https://heroku.com)
 4. Your app should be containerized using docker.
-5. Share with us through email the:
+5. Share with us through email to sayhello@techinnover.com the following:
   - Repository
   - Hosted API URL
   - Postman Collection Public URL
